@@ -8,3 +8,4 @@ Repositório com as atividades e exercícios da disciplina **Fundamentos de Banc
 - `T02-ModelagemConceitual/` — Exercícios da T02 (Modelagem Conceitual) em Word (.docx).
 - `T03-Relacionamentos/` — Material da T03 (Relacionamentos e Restrições, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T04-ModeloLogicoRelacional/` — Material da T04 (Modelo Lógico Relacional, slides em PDF) e exercícios de fixação em Word (.docx).
+- `T05-ModeloFisicoIntegridadeMySQL/` — Material da T05 (Modelo Físico e Integridade no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
