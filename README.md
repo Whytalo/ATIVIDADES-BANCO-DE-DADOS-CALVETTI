@@ -10,3 +10,4 @@ Repositório com as atividades e exercícios da disciplina **Fundamentos de Banc
 - `T04-ModeloLogicoRelacional/` — Material da T04 (Modelo Lógico Relacional, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T05-ModeloFisicoIntegridadeMySQL/` — Material da T05 (Modelo Físico e Integridade no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T06-SqlMySQL-DDL-DML/` — Material da T06 (SQL no MySQL: DDL e DML, slides em PDF) e exercícios de fixação em Word (.docx).
+- `T07-ConsultasSimplesMySQL/` — Exercícios de fixação da T07 (Consultas simples no MySQL) em Word (.docx).
