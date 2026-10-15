@@ -12,3 +12,4 @@ Repositório com as atividades e exercícios da disciplina **Fundamentos de Banc
 - `T06-SqlMySQL-DDL-DML/` — Material da T06 (SQL no MySQL: DDL e DML, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T07-ConsultasSimplesMySQL/` — Material da T07 (Consultas simples no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T08-JuncoesAgregacoesMySQL/` — Material da T08 (Junções e Agregações no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
+- `T09-SubconsultasCTEsViewsMySQL/` — Material da T09 (Subconsultas, CTEs e views no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
