@@ -13,3 +13,5 @@ Repositório com as atividades e exercícios da disciplina **Fundamentos de Banc
 - `T07-ConsultasSimplesMySQL/` — Material da T07 (Consultas simples no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T08-JuncoesAgregacoesMySQL/` — Material da T08 (Junções e Agregações no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
 - `T09-SubconsultasCTEsViewsMySQL/` — Material da T09 (Subconsultas, CTEs e views no MySQL, slides em PDF) e exercícios de fixação em Word (.docx).
+
+- `T10-NormalizacaoIntegridade/` — Material da T10 (Normalização e Integridade, slides em PDF, e Exercícios práticos de normalização, PDF) e exercícios de fixação em Word (.docx).
